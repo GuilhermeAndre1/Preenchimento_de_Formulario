@@ -1,4 +1,4 @@
-Preenchimento automático de um Formulário se baseando em uma Planilha Excel utilizando Python com as bibliotecas pyautogui e openpyxl.
+Preenchimento automático de um Formulário baseado em uma Planilha Excel utilizando Python com as bibliotecas pyautogui e openpyxl.
 
 O site utilizado como um simulador de Formulário foi: https://cadastro-produtos-devaprender.netlify.app/index.html e a planilha usada está no repositório.
 
